@@ -41,12 +41,6 @@ Podemos definir como Teste Unitário, o teste da menor parte testável de um sof
 O objetivo principal dos testes automatizados é de garantir que uma aplicação continue funcionando mesmo após mudanças no código-fonte.
 </li>
 <li>
-Podemos definir como Teste Unitário, o teste da menor parte testável de um software.
-</li>
-<li>
-O objetivo principal dos testes automatizados é de garantir que uma aplicação continue funcionando mesmo após mudanças no código-fonte.
-</li>
-<li>
 Testes Unitários não dependem de nenhum processo ou sistema externo (banco de dados, console, rede e etc.)
 </li>
 
@@ -88,7 +82,7 @@ Algumas IDEs para desenvolvimento Java já incorpora o JUnit.
 É escrito um teste que irá falhar e qualquer forma.
 </li>
 <li>
-Em seguida, desenvolve-se a função que deverá fazer o teste passar e então reaplica-lo.
+Em seguida, desenvolve-se a função que deverá fazer o teste passar e então reaplicá-lo.
 </li>
 <li>
 Feito os dois passos anteriores é importante refatorar o código a fim de evitar redundância. 
